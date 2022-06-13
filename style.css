@@ -11,6 +11,9 @@ img{
 header{
     height: 50px;
     background-color: #ABE2F7;
+}
+nav{
+    height: 50px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
